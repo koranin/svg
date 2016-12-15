@@ -7,3 +7,5 @@
 - https://www.youtube.com/watch?v=D40JphLwqpk
 - http://cubic-bezier.com/#.08,.74,.29,1
 - https://two.js.org/
+- http://robbbb.github.io/VectorRuler/
+- http://editor.method.ac/
