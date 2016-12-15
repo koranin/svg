@@ -9,3 +9,4 @@
 - https://two.js.org/
 - http://robbbb.github.io/VectorRuler/
 - http://editor.method.ac/
+- https://www.khanacademy.org/math/basic-geo/basic-geo-lines/lines-rays/v/lines-line-segments-and-rays
