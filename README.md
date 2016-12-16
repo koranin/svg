@@ -11,3 +11,4 @@
 - http://editor.method.ac/
 - https://www.khanacademy.org/math/basic-geo/basic-geo-lines/lines-rays/v/lines-line-segments-and-rays
 - https://css-tricks.com/svg-path-syntax-illustrated-guide/
+- https://vuejs.org/v2/examples/svg.html
