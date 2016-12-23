@@ -18,6 +18,7 @@
 - https://github.com/benogle/curve
 - https://vectr.com
 - https://blog.komand.com/building-svg-maps-with-react
+- https://www.npmjs.com/package/parametric-svg
 
 # Parametric
 - http://metapolator.com/
