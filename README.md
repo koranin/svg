@@ -22,3 +22,6 @@
 
 # Parametric
 - http://metapolator.com/
+
+# Pattern Makikng
+- https://www.youtube.com/watch?v=EdJSUd71CdI
