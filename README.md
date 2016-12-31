@@ -24,6 +24,8 @@
 # Parametric
 - http://metapolator.com/
 - http://codepen.io/mxfh/pen/Xmomqj
+- http://forum.freecadweb.org/viewtopic.php?t=17453
+- https://github.com/parametric-svg/parametric-svg/tree/master/packages/spec#/
 
 # Pattern Making
 - https://www.youtube.com/watch?v=EdJSUd71CdI
