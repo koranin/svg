@@ -23,6 +23,7 @@
 
 # Parametric
 - http://metapolator.com/
+- http://codepen.io/mxfh/pen/Xmomqj
 
 # Pattern Making
 - https://www.youtube.com/watch?v=EdJSUd71CdI
