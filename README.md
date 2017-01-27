@@ -33,3 +33,6 @@
 # Dev
 - http://www.andrevdm.com/posts/2016-09-01-rowSpan-pux-redux.html
 - https://glebbahmutov.com/blog/extra-fp-for-rx/
+
+# Pattern Making Software
+- https://www.apparelnews.net/news/2016/sep/22/tukatech-takes-cad-cloud/
