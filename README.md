@@ -4,6 +4,7 @@
 - http://victorjs.org/
 - http://paperjs.org/
 - http://mathjs.org/
+- http://evanw.github.io/csg.js/
 
 ### Inspiration
 - http://www.vectorworks.net/
