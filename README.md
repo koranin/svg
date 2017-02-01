@@ -1,5 +1,13 @@
 # svg
 
+### API
+- http://victorjs.org/
+- http://paperjs.org/
+- http://mathjs.org/
+
+### Inspiration
+- http://www.vectorworks.net/
+
 ### links
 - http://recharts.org/
 - http://jxnblk.com/react-icons/
