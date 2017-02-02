@@ -32,6 +32,7 @@
 - https://blog.komand.com/building-svg-maps-with-react
 - https://www.npmjs.com/package/parametric-svg
 - https://github.com/ravichugh/sketch-n-sketch
+- https://sarasoueidan.com/demos/interactive-svg-coordinate-system/
 
 # Parametric
 - http://metapolator.com/
