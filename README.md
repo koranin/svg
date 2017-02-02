@@ -12,6 +12,10 @@
 ### Vector
 - https://www.youtube.com/watch?v=ml4NSzCQobk
 
+### Apps
+- https://vectr.com
+- https://www.sketchapp.com/
+
 ### links
 - http://recharts.org/
 - http://jxnblk.com/react-icons/
@@ -28,7 +32,6 @@
 - https://bl.ocks.org/bricof/f1f5b4d4bc02cad4dea454a3c5ff8ad7
 - https://codepen.io/thebabydino/pen/zGzZVM
 - https://github.com/benogle/curve
-- https://vectr.com
 - https://blog.komand.com/building-svg-maps-with-react
 - https://www.npmjs.com/package/parametric-svg
 - https://github.com/ravichugh/sketch-n-sketch
