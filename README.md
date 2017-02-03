@@ -16,6 +16,7 @@
 ### Apps
 - https://vectr.com
 - https://www.sketchapp.com/
+- http://jointjs.com/
 
 ### links
 - http://recharts.org/
