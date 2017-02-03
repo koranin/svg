@@ -5,6 +5,7 @@
 - http://paperjs.org/
 - http://mathjs.org/
 - http://evanw.github.io/csg.js/
+- http://projects.haskell.org/diagrams/
 
 ### Inspiration
 - http://www.vectorworks.net/
