@@ -9,6 +9,7 @@
 
 ### Inspiration
 - http://www.vectorworks.net/
+- http://draw2d.org/draw2d/examples/examples.html
 
 ### Vector
 - https://www.youtube.com/watch?v=ml4NSzCQobk
