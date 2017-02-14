@@ -20,6 +20,9 @@
 - https://www.sketchapp.com/
 - http://jointjs.com/
 - https://www.draw.io
+- https://www.onshape.com/
+- http://www.123dapp.com/
+- https://www.figma.com
 
 ### links
 - http://recharts.org/
