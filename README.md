@@ -1,11 +1,12 @@
 # svg
 
-### API
+### Library
 - http://victorjs.org/
 - http://paperjs.org/
 - http://mathjs.org/
 - http://evanw.github.io/csg.js/
 - http://projects.haskell.org/diagrams/
+- http://microsoft.github.io/maker.js/
 
 ### Inspiration
 - http://www.vectorworks.net/
