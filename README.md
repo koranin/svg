@@ -7,6 +7,7 @@
 - http://evanw.github.io/csg.js/
 - http://projects.haskell.org/diagrams/
 - http://microsoft.github.io/maker.js/
+- http://konvajs.github.io/docs/
 
 ### Inspiration
 - http://www.vectorworks.net/
