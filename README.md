@@ -9,6 +9,7 @@
 - http://microsoft.github.io/maker.js/
 - http://konvajs.github.io/docs/
 - https://github.com/tbolis/react-sketch
+- https://github.com/james-oldfield/react-paint
 
 ### Inspiration
 - http://www.vectorworks.net/
