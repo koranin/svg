@@ -8,6 +8,7 @@
 - http://projects.haskell.org/diagrams/
 - http://microsoft.github.io/maker.js/
 - http://konvajs.github.io/docs/
+- https://github.com/tbolis/react-sketch
 
 ### Inspiration
 - http://www.vectorworks.net/
