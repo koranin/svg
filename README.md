@@ -13,6 +13,9 @@
 - https://github.com/benardt/JScad2d
 - https://facadejs.com/
 
+### illustrator
+- https://www.hotdoor.com
+
 ### Inspiration
 - http://www.vectorworks.net/
 - http://draw2d.org/draw2d/examples/examples.html
