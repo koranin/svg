@@ -13,6 +13,9 @@
 - https://github.com/benardt/JScad2d
 - https://facadejs.com/
 
+###
+- https://medium.com/@sailorhg/a-career-retrospective-10-years-working-in-tech-ea0bf2a29696#.va8hi3gmo
+
 ### illustrator
 - https://www.hotdoor.com
 
