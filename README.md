@@ -13,6 +13,7 @@
 - https://github.com/benardt/JScad2d
 - https://facadejs.com/
 - https://sourceforge.net/projects/js-cad/?source=directory
+- http://www.html5cad.org/
 
 ### Sass
 - https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization
