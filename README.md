@@ -41,6 +41,9 @@
 - http://www.123dapp.com/
 - https://www.figma.com
 
+### Partner
+- https://www.techpacker.com
+
 ### Source
 - https://github.com/skedastik/Alberti
 - https://bl.ocks.org/mohhasbias/7d02d15d15b29b723a752f435d5e52bc
