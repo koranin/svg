@@ -70,6 +70,7 @@
 - https://www.npmjs.com/package/parametric-svg
 - https://github.com/ravichugh/sketch-n-sketch
 - https://sarasoueidan.com/demos/interactive-svg-coordinate-system/
+- http://modeling-languages.com/javascript-drawing-libraries-diagrams/
 
 # Parametric
 - http://metapolator.com/
