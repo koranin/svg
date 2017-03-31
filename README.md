@@ -1,5 +1,8 @@
 # svg
 
+### articles
+- http://www.sodacad.org/
+
 ### Library
 - http://victorjs.org/
 - http://paperjs.org/
