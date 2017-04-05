@@ -5,6 +5,9 @@
 
 ### ui components
 - http://clauderic.github.io/react-sortable-hoc/#/advanced/window-as-scroll-container?_k=4njk6p
+- http://rubaxa.github.io/Sortable/
+- https://golden-layout.com/examples/
+- https://lukasoppermann.github.io/html5sortable/index.html
 
 ### Library
 - http://victorjs.org/
