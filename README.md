@@ -26,8 +26,9 @@
 - http://www.html5cad.org/
 - http://haptic-data.com/toxiclibsjs/
 - http://c3dlabs.com/en/products/solver/
-  https://www.youtube.com/watch?v=BTt-NA9xKCg
-
+- https://www.youtube.com/watch?v=BTt-NA9xKCg
+- https://github.com/xibyte/jsketcher
+-https://github.com/xibyte/jsketcher
 
 ### Sass
 - https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization
