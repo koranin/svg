@@ -24,6 +24,7 @@
 - https://facadejs.com/
 - https://sourceforge.net/projects/js-cad/?source=directory
 - http://www.html5cad.org/
+- http://haptic-data.com/toxiclibsjs/
 
 ### Sass
 - https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization
