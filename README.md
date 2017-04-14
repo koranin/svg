@@ -28,7 +28,8 @@
 - http://c3dlabs.com/en/products/solver/
 - https://www.youtube.com/watch?v=BTt-NA9xKCg
 - https://github.com/xibyte/jsketcher
--https://github.com/xibyte/jsketcher
+- https://github.com/jriecken/sat-js
+- https://github.com/evanw/csg.js
 
 ### Sass
 - https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization
