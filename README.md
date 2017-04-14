@@ -25,6 +25,9 @@
 - https://sourceforge.net/projects/js-cad/?source=directory
 - http://www.html5cad.org/
 - http://haptic-data.com/toxiclibsjs/
+- http://c3dlabs.com/en/products/solver/
+  https://www.youtube.com/watch?v=BTt-NA9xKCg
+
 
 ### Sass
 - https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization
