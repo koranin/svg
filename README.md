@@ -30,6 +30,7 @@
 - https://github.com/xibyte/jsketcher
 - https://github.com/jriecken/sat-js
 - https://github.com/evanw/csg.js
+- https://github.com/cvdlab/react-planner
 
 ### Sass
 - https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization
