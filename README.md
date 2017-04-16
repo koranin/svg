@@ -31,6 +31,7 @@
 - https://github.com/jriecken/sat-js
 - https://github.com/evanw/csg.js
 - https://github.com/cvdlab/react-planner
+- https://github.com/CindyJS/CindyJS
 
 ### Sass
 - https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization
