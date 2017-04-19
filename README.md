@@ -90,6 +90,7 @@
 - https://github.com/ravichugh/sketch-n-sketch
 - https://sarasoueidan.com/demos/interactive-svg-coordinate-system/
 - http://modeling-languages.com/javascript-drawing-libraries-diagrams/
+- http://oeasvg.com/
 
 # Parametric
 - http://metapolator.com/
